@@ -1,4 +1,4 @@
-# H1 Single-page resume in HTML
+# Single-page resume in HTML
 
 This is a single-page resume in HTML as part of an assignment for ChaiCode 2026 Web Dev Cohort. It showcases multiple HTML elements/tags like headings (h1, h2), unordered lists (ul), tables, etc. Below is a screen grab of the same. To run this on your machine, follow the steps below:
 
